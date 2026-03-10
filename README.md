@@ -1,4 +1,4 @@
-# Kerone Industrial Equipment URLs
+# Kerone Industrial Products URLs
 
 - [Microwave Heating Dryer](https://kerone.com/microwave-heating-dryer.php)
 - [Radio Frequency Heating Dryer](https://kerone.com/radio-frequency-heating-dryer.php)
